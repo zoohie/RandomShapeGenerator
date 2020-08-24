@@ -1,1 +1,1 @@
-# RandomShapeGenerator
+# RandomShapeGenerator v 1.0
